@@ -7,4 +7,4 @@
 - 문의: outofchng@gmail.com
 - 시행일: 2026년 9월 8일
 
-GitHub Pages를 활성화하면 `https://<사용자명>.github.io/makdaet-challenge-terms/`에서 확인할 수 있습니다.
+약관 페이지: https://funbucket.github.io/makdaet-challenge-terms/
